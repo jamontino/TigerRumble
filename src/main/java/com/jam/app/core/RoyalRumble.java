@@ -11,6 +11,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.stream.Collectors;
 
+
 public class RoyalRumble {
     public static final int MAX_ALLOWED_NAMES = 50;
     private final RoyalNameConverter nameConverter;
